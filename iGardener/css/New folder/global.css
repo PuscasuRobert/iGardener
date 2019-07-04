@@ -1,0 +1,56 @@
+*
+{
+    margin:0px;
+    padding:0px; 
+}
+
+body
+{
+	background-color:#f7f8fa;
+}
+
+p
+{
+	font-family:Helvetica;
+}
+
+.DetailsButtonDiv
+{
+	padding:0px 0px 0px 0px;
+}
+
+.DetailsButtonDiv
+{
+	display: flex;
+	justify-content: center;
+}
+
+.DetailsButtonDiv .icon-add-to-cart {
+	height: 27px;
+}
+
+
+.DetailsButtonDiv .icon-button {
+	border: 2px solid #f558a2;
+	background-color: white;
+	padding-top: 2px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	width: 40px;
+	height:30px;
+}
+
+.DetailsButtonDiv .info-button {
+	background-color: #f558a2;
+	vertical-align: middle;
+	line-height: 30px;
+	padding: 3px 0;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	width: 160px;
+}
+
+.DetailsButtonDiv .info-button > a {
+	text-decoration: none;
+	color: white;
+}

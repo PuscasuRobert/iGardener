@@ -1,0 +1,21 @@
+#footer_part3
+{
+	float:left;
+	display:inline-block;
+	width:300px;
+	text-align:left;
+}
+
+#footer_part3 .phoneNrDiv
+{	
+	margin:20px 50px 0px 50px;
+}
+
+#footer_part3 .iconBorder
+{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	padding:5px;
+	background-color:#ff6600;
+}

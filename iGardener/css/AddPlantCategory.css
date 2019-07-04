@@ -1,0 +1,75 @@
+#formDiv
+{
+	background-color:#ecf0f1;
+	margin:0 auto;
+	width:600px;
+	box-shadow: 10px 10px 50px grey;
+    border: 2px solid black;
+    border-color: white;
+	margin-bottom:30px;
+	margin-top:30px;
+}
+
+#formDiv .text
+{
+	display:inline;
+	font-weight: 900;
+    color: #005eb8;
+    font-size: 15px;
+}
+
+#formDiv .textBox
+{
+	display:inline;
+}
+
+#formDiv .line
+{	
+	margin-bottom:15px;
+	width:100%;
+	display:inline-block;
+}
+
+#formDiv .leftSide
+{
+	float:left;
+	width:50%;
+	text-align:left;
+}
+
+#formDiv .rightSide
+{
+	float:left;
+	width:50%;
+	text-align:right;
+}
+
+#formDiv .formWrapper
+{
+	padding:40px;
+}
+
+#formDiv .submit
+{
+	text-align:center;
+}
+
+#formDiv button
+{
+	padding:10px 30px;
+}
+
+#formDiv .fileUpload 
+{
+	text-align:right;
+}
+
+#formDiv .title
+{
+	font-size: 40px;
+    line-height: 45px;
+    padding: 40px 40px 40px 40px;
+    color: #f558a2;
+    font-family: BPP;
+    text-align: center;
+}

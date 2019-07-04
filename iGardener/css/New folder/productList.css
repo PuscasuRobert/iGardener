@@ -1,0 +1,12 @@
+#productList
+{
+	display:inline-block;
+	width:80%;
+}
+
+#productList .title
+{
+	font-size:30px;
+	font-family:BPP;
+	color:#F558A2;
+}

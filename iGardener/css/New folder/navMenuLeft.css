@@ -1,0 +1,11 @@
+#navMenuLeft
+{
+	display:inline-block;
+	width:50%;
+}
+
+#navMenuLeft img
+{
+	width:700px;
+	height:100%;
+}

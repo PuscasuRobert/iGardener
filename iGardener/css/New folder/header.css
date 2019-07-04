@@ -1,0 +1,23 @@
+#header
+{
+	height:70px;
+	background-color:black;
+	margin:0 auto;
+	text-align:center;
+}
+
+#header p
+{
+	padding:12px;
+	font-size: 12px;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: .06em;
+    word-spacing: .03em;
+}
+
+#header span
+{
+	color:#f558a2;
+    letter-spacing: .06em;
+}

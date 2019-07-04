@@ -1,0 +1,36 @@
+#filters .filterCategory .button
+{
+	padding:0px;
+	background-color:red;
+}
+
+#filters .filterCategory a
+{
+	text-decoration:none;
+}
+
+#filters .filterCategory .categories
+{
+	font-weight: normal;
+    color: #005eb8;
+    font-size: 20px;
+	padding-bottom:5px;
+}
+
+#filters .filterCategory .selected
+{
+	
+	font-weight: 900;
+}
+
+.followButtonWrapper .fa-plus-circle {
+    color: #005eb8;
+    height: 30px;
+    width: 30px;
+}
+.followButtonWrapper i {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

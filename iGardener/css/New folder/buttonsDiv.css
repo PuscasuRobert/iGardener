@@ -1,0 +1,59 @@
+#buttonsDiv
+{
+	float:right;
+	display:inline-block;
+	height:71px;
+	position:relative;
+	top:50%;
+    transform: translate(0, -50%);
+}
+
+#buttonsDiv .navMenuButton
+{
+	position: relative;
+	display:inline-block;
+	margin:0px 10px 0px 10px;
+	padding:10px 15px 10px 15px;
+}
+
+#buttonsDiv .navMenuButton .navMenuDropdown
+{
+	display:none;
+	position:absolute;
+	background-color:red;
+	left:-100px;
+	border:2px solid black;
+	border-color:white;
+	background-color:#f7f8fa;
+	box-shadow:10px 10px 50px grey;
+}
+
+#buttonsDiv .navMenuButton:hover .navMenuDropdown
+{
+	display:inline-block;
+}
+
+#buttonsDiv .navMenuButton .buttonContainer
+{
+	text-align:center;
+}
+
+#buttonsDiv .navMenuButton a
+{
+	color:black;
+	text-decoration:none;
+}
+
+#buttonsDiv .navMenuButton .buttonContainer p
+{
+	font-size:12px;
+	padding-top:5px;
+}
+
+#buttonsDiv .navMenuButton:hover .fa-search,
+#buttonsDiv .navMenuButton:hover .fa-shopping-cart,
+#buttonsDiv .navMenuButton:hover .fa-user,
+#buttonsDiv .navMenuButton:hover .fa-heart
+{
+	color:#f558a2;
+}

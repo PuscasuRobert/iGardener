@@ -1,0 +1,16 @@
+#cart_totalPrice
+{
+	border-bottom:3px solid #c1c1c1;
+}
+
+#cart_totalPrice .p1
+{
+	color:#888888;
+	padding:10px;
+}
+
+#cart_totalPrice .flexboxContainer
+{
+	display:flex;
+	justify-content: center;
+}

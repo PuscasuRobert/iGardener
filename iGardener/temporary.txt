@@ -1,0 +1,25 @@
+<div id="filters">
+						<div class="filterCategory">
+							<p class="p1">FilterName1</p>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">Ihaveabike</p></div>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I havfdgsfdgsfde a bike</p></div>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I have a bike</p></div>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I have a bike</p></div>
+						</div>
+						
+						<div class="filterCategory">
+							<p class="p1">FilterName1</p>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I have a bike</p></div>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I have a bike</p></div>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I have a bike</p></div>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I have a bike</p></div>
+						</div>
+						
+						<div class="filterCategory">
+							<p class="p1">FilterName1</p>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I have a bike</p></div>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I have a bike</p></div>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I have a bike</p></div>
+							<div class="filterDiv"><input class="filterCheckBox" type="checkbox" name="vehicle1" value="Bike"> <p class="p2">I have a bike</p></div>
+						</div>
+					</div>

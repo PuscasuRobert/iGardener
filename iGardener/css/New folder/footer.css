@@ -1,0 +1,45 @@
+#footer
+{
+	text-align:center;
+	padding:0px 0px 50px 0px;
+	background-color:#e1e1e1;
+}
+
+#footer a
+{
+	text-decoration:none;
+}
+
+#footer .icon,
+#footer .fas
+{
+	color:white;
+}
+
+#footer .title
+{
+	padding:50px 50px 0px 50px;
+}
+
+#footer .subtitle
+{
+	margin:20px 50px 0px 50px;
+}
+
+#footer .text
+{
+	display:inline;
+}
+
+#footer .title,
+#footer .subtitle,
+#footer .text
+{
+	color:black;
+}
+
+#footer .subtitle:hover,
+#footer .text:hover
+{
+	color:green;
+}

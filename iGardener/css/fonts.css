@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Montserrat;
+  src: url(../fonts/MontserratAlternates-Black.otf);
+}
+
+@font-face {
+  font-family: "BPP";
+  src: url(../fonts/BeautifulPeoplePersonalUse.ttf) format("truetype");
+}

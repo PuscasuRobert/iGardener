@@ -1,0 +1,59 @@
+#content
+{
+	padding-top:50px;
+}
+
+#filters
+{
+	text-align:left;
+	flex:2;
+	float:left;
+	text-align:center;
+}
+
+#filters .filterCategory
+{
+	background-color:#e1e1e1;
+	width:100%;
+	padding:20px 0px 20px 0px;
+	text-align:left;
+}
+
+#filters .filterCategory .p1
+{
+	display:inline;
+	padding:0px 0px 0px 20px;
+	font-size:20px;
+}
+
+#filters .filterCategory .filterDiv .filterCheckBox
+{
+	display:inline;
+	float:left;
+	width:20px;
+	height:20px;
+}
+
+#filters .filterCategory .filterDiv .p2
+{
+	float:left;
+}
+
+#filters .filterDiv
+{
+	display:inline-block;
+	width:100%;
+	margin-bottom:5px;
+	padding:0px 0px 0px 30px;
+}
+
+#filters .filterCategory
+{
+	display:inline-block;
+	margin-bottom:30px;
+}
+
+.filterName
+{
+	margin-bottom:20px;
+}

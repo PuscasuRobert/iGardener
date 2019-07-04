@@ -1,0 +1,12 @@
+#cart_recentlyAdded
+{
+	border-bottom:3px solid #c1c1c1;
+}
+
+#cart_recentlyAdded p
+{
+	font-size:15px;
+	color: #005eb8;
+	margin:15px;
+	font-weight:900;
+}

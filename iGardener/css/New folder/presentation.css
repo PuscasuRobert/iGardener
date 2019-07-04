@@ -1,0 +1,28 @@
+
+#presentation
+{
+	border-bottom:2px solid #c1c1c1;
+	padding:0px 0px 50px 0px;
+}
+
+#presentation .title,
+#presentation .text
+{
+	word-spacing: 5px;
+	text-align: justify;
+}
+
+#presentation .title
+{
+	font-size:40px;
+	line-height:45px;	
+	padding:50px 50px 0px 50px;
+	color:#f558a2;
+}
+
+#presentation .text
+{
+	font-size:18px;
+	line-height:23px;	
+	padding:40px 50px 0px 50px;
+}
